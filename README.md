@@ -2,7 +2,8 @@
 - 👀 I’m interested in Mob Dile Appevelopment
 - 🌱 I’m currently learning  Python, JavaScript, flutter 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me facebook , instagram
+- 📫 How to reach me :
+  facebook , instagram
 
 
 <!---
