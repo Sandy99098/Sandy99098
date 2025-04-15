@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sandy99098
+- 👋 Hi, I’m @eternalXchaos07
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning  Python, flutter 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  Python, flutter,dotnet
 - 📫 How to reach me :
   facebook , instagram
 
